@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PasPXTheDarkFly
-- 👀 I’m interested in DiscordJS and PHP
-- 🌱 I’m currently learning JavaScript, PHP and more...
-- 📫 How to reach me DM me on discord : TheDarkFly#0945
+- 👀 I’m interested in Python and Dart
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me DM me on discord : @thedarkfly
 
 <!---
 PasPXTheDarkFly/PasPXTheDarkFly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
